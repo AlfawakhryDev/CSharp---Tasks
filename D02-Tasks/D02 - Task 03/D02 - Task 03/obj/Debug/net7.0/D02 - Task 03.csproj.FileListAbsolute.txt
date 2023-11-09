@@ -1,0 +1,15 @@
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\bin\Debug\net7.0\D02 - Task 03.exe
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\bin\Debug\net7.0\D02 - Task 03.deps.json
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\bin\Debug\net7.0\D02 - Task 03.runtimeconfig.json
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\bin\Debug\net7.0\D02 - Task 03.dll
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\bin\Debug\net7.0\D02 - Task 03.pdb
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.csproj.AssemblyReference.cache
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.AssemblyInfoInputs.cache
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.AssemblyInfo.cs
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.csproj.CoreCompileInputs.cache
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.dll
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\refint\D02 - Task 03.dll
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.pdb
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\D02 - Task 03.genruntimeconfig.cache
+H:\ITI CSHARP\CSharp - Tasks\D02-Tasks\D02 - Task 03\D02 - Task 03\obj\Debug\net7.0\ref\D02 - Task 03.dll
